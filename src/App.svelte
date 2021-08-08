@@ -21,6 +21,3 @@
     <button>Pay</button>
   </form>
 </Container>
-
-<style>
-</style>
